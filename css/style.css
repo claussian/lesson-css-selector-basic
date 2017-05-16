@@ -1,0 +1,88 @@
+ul {
+	border-width: 3px;
+	border-color: plum;
+	border-style: dotted;
+	border-radius: 5px;
+}
+
+li {
+	/*font-size: 36px;*/
+	border-top: 3px;
+	border-top-color: seagreen;
+	border-top-style: solid;
+}
+
+.mammal {
+	color: red;
+	background-color: lavenderBlush;
+	font-weight: bold;
+}
+
+.bird {
+	color: blue;
+	background-color: lightGray;
+	font-style: italic;
+}
+
+.fish {
+	color: orange;
+	background-color: lightYellow;
+	text-decoration: underline;
+}
+
+#mouse {
+	color:gray;
+}
+
+#canary {
+	color: orangeRed;
+}
+
+#penguin {
+	color: black;
+}
+
+#salmon {
+	color: salmon;
+}
+
+#cat {
+	color: sienna;
+}
+
+#goldfish {
+	color: gold;
+}
+
+#dog {
+	color: tan;
+}
+
+#sheep {
+	color: steelBlue;
+}
+
+#parakeet {
+	color: lime;
+}
+
+#tuna {
+	color: purple;
+}
+
+#cns {
+	background-color: Brown;
+	padding: 30px;
+	border-width: 15px;
+	border-color: lightYellow;
+	border-style: dashed;
+	/*border-radius: 10px;*/
+}
+
+#ps {
+	padding: 25px;
+	background-color: blue;
+	border-width: 3px;
+	border-color: orange;
+	border-style: solid;
+}
